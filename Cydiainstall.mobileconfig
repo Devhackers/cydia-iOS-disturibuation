@@ -10,15 +10,15 @@
  <key>IsRemovable</key>
  <true/>
  <key>Label</key>
- <string></string>
+ <string>Cydia installer</string>
  <key>PayloadDescription</key>
  <string>Configures Web Clip</string>
  <key>PayloadDisplayName</key>
  <string>Web Clip</string>
  <key>PayloadIdentifier</key>
- <string></string>
+ <string>Com.hackers.config</string>
  <key>PayloadOrganization</key>
- <string></string>
+ <string>Hackers</string>
  <key>PayloadType</key>
  <string>com.apple.webClip.managed</string>
  <key>PayloadUUID</key>
@@ -28,7 +28,7 @@
  <key>Precomposed</key>
  <false/>
  <key>URL</key>
- <string></string>
+ <string>Http://apps.appshed.com/154731</string>
  </dict>
  </array>
  <key>PayloadDescription</key>
@@ -36,7 +36,7 @@
  <key>PayloadDisplayName</key>
  <string>Profile Name</string>
  <key>PayloadOrganization</key>
- <string></string>
+ <string>Hackers</string>
  <key>PayloadRemovalDisallowed</key>
  <false/>
  <key>PayloadType</key>
