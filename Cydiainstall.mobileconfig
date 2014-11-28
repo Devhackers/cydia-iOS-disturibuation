@@ -34,7 +34,7 @@
  <key>PayloadDescription</key>
  <string>Profile description.</string>
  <key>PayloadDisplayName</key>
- <string>Profile Name</string>
+ <string>Cydia installer</string>
  <key>PayloadOrganization</key>
  <string>Hackers</string>
  <key>PayloadRemovalDisallowed</key>
