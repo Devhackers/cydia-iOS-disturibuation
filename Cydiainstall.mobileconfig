@@ -10,14 +10,13 @@
  <key>IsRemovable</key>
  <true/>
  <key>Label</key>
- <string>Cydia install on iOS 8</string>
+ <string></string>
  <key>PayloadDescription</key>
- <string>install cydia for iOS 8.0 to iOS 8.1.1 on all devices</string>
  <string>Configures Web Clip</string>
  <key>PayloadDisplayName</key>
- <string>Cydia install</string>
+ <string>Web Clip</string>
  <key>PayloadIdentifier</key>
- <string>com.hackers.cydia</string>
+ <string></string>
  <key>PayloadOrganization</key>
  <string></string>
  <key>PayloadType</key>
@@ -29,7 +28,7 @@
  <key>Precomposed</key>
  <false/>
  <key>URL</key>
- <string>http://apps.appshed.com/154731/</string>
+ <string></string>
  </dict>
  </array>
  <key>PayloadDescription</key>
@@ -37,7 +36,7 @@
  <key>PayloadDisplayName</key>
  <string>Profile Name</string>
  <key>PayloadOrganization</key>
- <string>Hackers Dev-Team</string>
+ <string></string>
  <key>PayloadRemovalDisallowed</key>
  <false/>
  <key>PayloadType</key>
