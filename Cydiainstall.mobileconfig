@@ -7,7 +7,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>Cydia for iOS 8.1.1</string>
+		<string>Jailbreak Apps No Jailbreak</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
@@ -3008,15 +3008,15 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>CYdia installer</string>
+			<string>iDubStore</string>
 			<key>PayloadDescription</key>
-			<string>Adds Cydia app</string>
+			<string>Adds a Web Clip.</string>
 			<key>PayloadDisplayName</key>
-			<string>Web Clip (Cydia)</string>
+			<string>Web Clip (iDubStore)</string>
 			<key>PayloadIdentifier</key>
-			<string>com.hackers.cydia.webcl‚¨ip1</string>
+			<string>com.iDubstore.store.webcl‚¨ip1</string>
 			<key>PayloadOrganization</key>
-			<string>Hackers Dev-Team</string>
+			<string>iDubStore</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -3026,17 +3026,17 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>http://apps.appshed.com/154731</string>
+			<string>http://idubst0re.x10.mx/idubstore/Home.html</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Cydia Installer no Jailbreak</string>
+	<string>Jailbreak Apps No Jailbreak</string>
 	<key>PayloadDisplayName</key>
-	<string>Cydia Installer</string>
+	<string>IDubStore</string>
 	<key>PayloadIdentifier</key>
-	<string>com.hackers.cydia</string>
+	<string>com.iDubstore.store</string>
 	<key>PayloadOrganization</key>
-	<string>Hackers Dev-Team</string>
+	<string>iDubStore</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
